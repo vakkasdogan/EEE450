@@ -6,7 +6,8 @@ Group Users:
       160403060 - Vakkas DOĞAN
       160403101 - Özkan ÇAYLI
       
-Project Description : Designing 4 Deep Learning Model for Digit Recognition using MNIST dataset
+Project Description : Designing 4 Machine Learning Model for Digit Recognition using MNIST dataset
+
 
 
 
